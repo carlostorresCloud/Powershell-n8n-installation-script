@@ -1,5 +1,4 @@
 <#
-.SYNOPSIS
 Script para instalar Docker Desktop y desplegar n8n.
 #>
 
