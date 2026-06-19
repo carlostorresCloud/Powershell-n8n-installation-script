@@ -1,7 +1,7 @@
 ```markdown
 # 🚀 Instalación Automática de Docker y n8n en Windows
 
-Este repositorio contiene un script de PowerShell diseñado para automatizar por completo la descarga e instalación de **Docker Desktop** en Windows y el despliegue de un contenedor de **[n8n](https://n8n.io/)** (una potente herramienta *fair-code* de automatización de flujos de trabajo).
+Este repositorio contiene un script de PowerShell diseñado para automatizar por completo la descarga e instalación de **Docker Desktop** en Windows y el despliegue de un contenedor de n8n
 
 ---
 
