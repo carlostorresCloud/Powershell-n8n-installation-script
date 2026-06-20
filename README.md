@@ -24,7 +24,7 @@ El script ejecuta los siguientes pasos de forma secuencial:
 * **Sistema Operativo:** Windows 10 (Build 19044 o superior) o Windows 11.
 * **Privilegios:** Debes ejecutar PowerShell como **Administrador**.
 * **Requisitos del sistema de Docker:** Es recomendable tener habilitado **WSL 2** (Windows Subsystem for Linux) o la característica de **Hyper-V**.
-
+* **Nota** Docker no se puede instalar dentro de maquinas virtuales como Virtualbox o Vmware, debe hacerse en una pc con windows o linux 
 ---
 
 ## 🚀 Cómo usar este script
